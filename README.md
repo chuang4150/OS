@@ -14,8 +14,6 @@ A C++ program that makes direct system calls to read() and write() without using
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Output
 
 The program should print the amount of bytes written/read and how long each operation took.
